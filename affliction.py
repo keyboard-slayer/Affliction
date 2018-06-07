@@ -1,5 +1,4 @@
 import os
-import sys
 import time
 import hashlib
 import fnmatch
@@ -82,9 +81,6 @@ def HDDToFTP():
 
 
 if __name__ == "__main__":
-	if len(sys) == 1:
-		exit()
-		
 	while True:
 		newDisk = checkNewDisk()
 		directory = afflictionEmpty()
