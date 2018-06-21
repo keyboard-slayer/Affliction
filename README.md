@@ -1,5 +1,5 @@
 # Affliction
-Steel the exams :heart:
+Steal the exams :heart:
 
 ## Why have i made Affliction
 
